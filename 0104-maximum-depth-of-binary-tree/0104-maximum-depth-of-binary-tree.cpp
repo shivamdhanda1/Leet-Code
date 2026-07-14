@@ -15,7 +15,7 @@ public:
         if(root == NULL) {
             return 0;
         }
-        int count = max(maxDepth(root->left),maxDepth(root->right)) + 1;
-        return count;
+        return  max(maxDepth(root->left),maxDepth(root->right)) + 1;
+    
     }
 };
