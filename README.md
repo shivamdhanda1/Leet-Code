@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivamdhanda1/Leet-Code/tree/master/0104-maximum-depth-of-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/shivamdhanda1/Leet-Code/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/shivamdhanda1/Leet-Code/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
