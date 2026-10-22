@@ -1,6 +1,7 @@
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
+        if(nums.empty()) return 0; // for one of the edge cases
      int i = 0; int j = 1;
      while(j < nums.size()) {
         if(nums[i] != nums[j]) {
