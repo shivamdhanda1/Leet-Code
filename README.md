@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shivamdhanda1/Leet-Code/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivamdhanda1/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/shivamdhanda1/Leet-Code/tree/master/0169-majority-element) |
+| [0704-binary-search](https://github.com/shivamdhanda1/Leet-Code/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/shivamdhanda1/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shivamdhanda1/Leet-Code/tree/master/0344-reverse-string) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/shivamdhanda1/Leet-Code/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
