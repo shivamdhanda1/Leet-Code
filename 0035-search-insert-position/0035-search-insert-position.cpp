@@ -11,15 +11,7 @@ public:
             else if(nums[mid] > target) high = mid - 1;
              else low = mid + 1;
         }
-        int d = (low + high) / 2;
-    
-        if(nums[d] > target) {
-            if(d == 0 ) return 0;
-            else { 
-                return d - 1;
-            }
-        }
-        else {return d+1;}
+      return low;
     }
     
 };
