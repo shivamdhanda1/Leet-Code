@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivamdhanda1/Leet-Code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/shivamdhanda1/Leet-Code/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivamdhanda1/Leet-Code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/shivamdhanda1/Leet-Code/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Array
 |  |
 | ------- |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/shivamdhanda1/Leet-Code/tree/master/0374-guess-number-higher-or-lower) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/shivamdhanda1/Leet-Code/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
